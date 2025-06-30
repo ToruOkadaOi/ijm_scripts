@@ -1,5 +1,5 @@
 # ijm_scripts
-ImageJ/Fiji Macro Scripts
+Reusuable ImageJ/Fiji Macro Scripts
 
 Scripts I wrote for Plant Developmental Biology Lab at TUM
 
